@@ -1,0 +1,34 @@
+Mono path[0] = 'D:/unitybuildit/Sgniw/Sgniw_Data/Managed'
+Mono path[1] = 'D:/unitybuildit/Sgniw/Sgniw_Data/Mono'
+Mono config path = 'D:/unitybuildit/Sgniw/Sgniw_Data/Mono/etc'
+PlayerConnection initialized from D:/unitybuildit/Sgniw/Sgniw_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55002
+Multi-casting "[IP] 192.168.0.103 [Port] 55002 [Flags] 2 [Guid] 667770579 [EditorId] 4294947225 [Version] 1048832 [Id] WindowsPlayer(Acer-PC) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.0.103:55002]
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6500M/5600/5700 Series (ID=0x68c1)
+    Vendor:   ATI
+    VRAM:     1014 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\unitybuildit\Sgniw\Sgniw_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\unitybuildit\Sgniw\Sgniw_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\unitybuildit\Sgniw\Sgniw_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\unitybuildit\Sgniw\Sgniw_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\unitybuildit\Sgniw\Sgniw_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\unitybuildit\Sgniw\Sgniw_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\unitybuildit\Sgniw\Sgniw_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\unitybuildit\Sgniw\Sgniw_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\unitybuildit\Sgniw\Sgniw_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\unitybuildit\Sgniw\Sgniw_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.099 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\unitybuildit\Sgniw\Sgniw_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\unitybuildit\Sgniw\Sgniw_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 994 -> priority: 1 
